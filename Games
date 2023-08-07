@@ -1,1 +1,2 @@
 git rm Games.txt
+git commit -m "remove Games.txt"
